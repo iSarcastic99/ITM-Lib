@@ -14,6 +14,6 @@ public class BookOpener extends AppCompatActivity {
         setContentView(R.layout.activity_book_opener);
 
         PDFView pdfView = (PDFView) findViewById(R.id.pdfView);
-        pdfView.fromAsset("richdadpoordad.pdf").load();
+        pdfView.fromAsset("Atomic_Habits.pdf").load();
     }
 }
