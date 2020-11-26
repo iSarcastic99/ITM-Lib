@@ -17,7 +17,7 @@ import androidx.lifecycle.ViewModelProviders;
 import com.example.itmlibrary.BookOpener;
 import com.example.itmlibrary.R;
 
-public class DashboardFragment extends Fragment implements View.OnClickListener{
+public class DashboardFragment extends Fragment {
 
 
 
@@ -26,13 +26,65 @@ public class DashboardFragment extends Fragment implements View.OnClickListener{
         View root = inflater.inflate(R.layout.fragment_dashboard, container, false);
         final TextView textView = root.findViewById(R.id.text_dashboard);
         ImageView image = (ImageView) root.findViewById(R.id.placeimage1);
-        image.setOnClickListener(this);
-        return root;
-    }
+        ImageView image2 = (ImageView) root.findViewById(R.id.placeimage2);
+        ImageView image3 = (ImageView) root.findViewById(R.id.placeimage3);
+        ImageView image4 = (ImageView) root.findViewById(R.id.placeimage4);
+        ImageView image5 = (ImageView) root.findViewById(R.id.placeimage5);
+        ImageView image6 = (ImageView) root.findViewById(R.id.placeimage6);
 
-    @Override
-    public void onClick(View v) {
-        Intent intent = new Intent(getActivity(), BookOpener.class);
-        startActivity(intent);
+        image2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getActivity(), BookOpener.class);
+                intent.putExtra("Bookname", "DBMS");
+                startActivity(intent);
+            }
+        });
+
+        image3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getActivity(), BookOpener.class);
+                intent.putExtra("Bookname", "Chad_Fowler_-_The_Passionate_Programmer,_2nd_edition");
+                startActivity(intent);
+            }
+        });
+
+        image4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getActivity(), BookOpener.class);
+                intent.putExtra("Bookname", "Introduction_to_algorithms");
+                startActivity(intent);
+            }
+        });
+
+        image5.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getActivity(), BookOpener.class);
+                intent.putExtra("Bookname", "Avengers_Endgame");
+                startActivity(intent);
+            }
+        });
+
+        image6.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getActivity(), BookOpener.class);
+                intent.putExtra("Bookname", "DBMS");
+                startActivity(intent);
+            }
+        });
+
+        image.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(getActivity(), BookOpener.class);
+                intent.putExtra("Bookname", "Atomic_Habits");
+                startActivity(intent);
+            }
+        });
+        return root;
     }
 }
