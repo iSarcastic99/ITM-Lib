@@ -15,6 +15,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.example.itmlibrary.R;
 import com.example.itmlibrary.ui.login.LoginActivity;
@@ -22,10 +23,10 @@ import com.example.itmlibrary.ui.login.LoginActivity;
 /**
  * A fragment representing a list of Items.
  */
-public class More extends Fragment implements View.OnClickListener {
+public class More extends Fragment {
 
-//    String name, S;
-//    int i;
+    String S;
+    int i;
     // TODO: Customize parameter argument names
     private static final String ARG_COLUMN_COUNT = "column-count";
     // TODO: Customize parameters
@@ -65,17 +66,17 @@ public class More extends Fragment implements View.OnClickListener {
                              Bundle savedInstanceState) {
         View root = inflater.inflate(R.layout.fragment_more, container, false);
         final TextView textView = root.findViewById(R.id.logout);
+        textView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                SharedPreferences.Editor editor1 = getActivity().getSharedPreferences(S, i).edit();
+                editor1.putString("Status", "No");
+                editor1.apply();
+                Intent intent = new Intent(getActivity(), LoginActivity.class);
+                startActivity(intent);
+                getActivity().finishAffinity();
+            }
+        });
         return root;
-    }
-
-    @Override
-    public void onClick(View v) {
-        // write code for logout
-//        SharedPreferences.Editor editor = getSharedPreferences(S,i).edit();
-//        editor.putString("Username","No name");
-//        editor.apply();
-//        Intent logoutIntent = new Intent(getActivity(), LoginActivity.class);
-//        startActivity(logoutIntent);
-//        finish();
     }
 }
