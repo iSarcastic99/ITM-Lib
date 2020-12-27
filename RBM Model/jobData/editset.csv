@@ -1,0 +1,213 @@
+jobId,title,generes
+1,Title,signal_processing
+2,Fundamentals of Wavelets,data_science
+3,Data Smart,mathematics
+4,God Created the Integers,economics
+5,Superfreakonomics,history
+6,Orientalism,data_science
+7,"Nature of Statistical Learning Theory, The",history
+8,Integration of the Indian States,science
+9,"Drunkard's Walk, The",signal_processing
+10,Image Processing & Mathematical Morphology,psychology
+11,How to Think Like Sherlock Holmes,data_science
+12,Data Scientists at Work,fiction
+13,Slaughterhouse Five,mathematics
+14,Birth of a Theorem,computer_science
+15,Structure & Interpretation of Computer Programs,history
+16,"Age of Wrath, The",fiction
+17,"Trial, The",data_science
+18,Statistical Decision Theory',data_science
+19,Data Mining Handbook,fiction
+20,"New Machiavelli, The",science
+21,Physics & Philosophy,computer_science
+22,Making Software,mathematics
+23,"Analysis, Vol I",data_science
+24,Machine Learning for Hackers,data_science
+25,"Signal and the Noise, The",data_science
+26,Python for Data Analysis,computer_science
+27,Introduction to Algorithms,nonfiction
+28,"Beautiful and the Damned, The",fiction
+29,"Outsider, The",fiction
+30,"Complete Sherlock Holmes, The - Vol I",fiction
+31,"Complete Sherlock Holmes, The - Vol II",economics
+32,"Wealth of Nations, The",fiction
+33,"Pillars of the Earth, The",nonfiction
+34,Mein Kampf,science
+35,"Tao of Physics, The",science
+36,Surely You're Joking Mr Feynman,fiction
+38,"Farewell to Arms, A",fiction
+39,"Veteran, The",fiction
+40,False Impressions,nonfiction
+41,"Last Lecture, The",philosophy
+42,Return of the Primitive,fiction
+43,Jurassic Park,nonfiction
+44,"Russian Journal, A",fiction
+45,Tales of Mystery and Imagination,economics
+46,Freakonomics,science
+47,"Hidden Connections, The",philosophy
+48,"Story of Philosophy, The",fiction
+49,Asami Asami,fiction
+50,Journal of a Novel,nonfiction
+52,Once There Was a War,fiction
+53,"Moon is Down, The",fiction
+54,"Brethren, The",fiction
+55,In a Free State,fiction
+57,Catch 22,nonfiction
+58,"Complete Mastermind, The",nonfiction
+59,Dylan on Dylan,data_science
+60,Soft Computing & Intelligent Systems,economics
+61,Textbook of Economic Theory,economics
+62,Econometric Analysis,data_science
+63,Learning OpenCV,computer_science
+64,Data Structures Using C & C++,data_science
+65,"Computer Vision, A Modern Approach",computer_science
+66,Principles of Communication Systems,computer_science
+68,Let Us C,fiction
+69,"Amulet of Samarkand, The",fiction
+70,Crime and Punishment,fiction
+71,Angels & Demons,nonfiction
+72,"Argumentative Indian, The",fiction
+73,Sea of Poppies,nonfiction
+74,"Idea of Justice, The",fiction
+76,"Raisin in the Sun, A",history
+77,All the President's Men,fiction
+78,"Prisoner of Birth, A",history
+79,Scoop!,nonfiction
+80,Ahe Manohar Tari,history
+81,"Last Mughal, The",economics
+82,"Social Choice & Welfare, Vol 39 No. 1",nonfiction
+83,Radiowaril Bhashane & Shrutika,nonfiction
+84,Gun Gayin Awadi,nonfiction
+85,Aghal Paghal,fiction
+86,Maqta-e-Ghalib,nonfiction
+87,Beyond Degrees,nonfiction
+88,Manasa,history
+89,India from Midnight to Milennium,history
+92,"World's Greatest Trials, The",fiction
+93,"Great Indian Novel, The",history
+94,O Jerusalem!,fiction
+95,"City of Joy, The",history
+96,Freedom at Midnight,fiction
+97,"Winter of Our Discontent, The",philosophy
+98,On Education,philosophy
+99,Free Will,nonfiction
+100,Bookless in Baghdad,fiction
+101,"Case of the Lame Canary, The",science
+102,"Theory of Everything, The",economics
+103,New Markets & Other Essays,science
+104,Electric Universe,fiction
+105,"Hunchback of Notre Dame, The",fiction
+107,Burning Bright,economics
+108,"Age of Discontuinity, The",fiction
+110,Doctor in the Nude,nonfiction
+111,Down and Out in Paris & London,philosophy
+112,Identity & Violence,history
+113,Beyond the Three Seas,fiction
+114,"World's Greatest Short Stories, The",nonfiction
+116,Talking Straight,fiction
+117,"Maugham's Collected Short Stories, Vol 3",fiction
+118,"Phantom of Manhattan, The",fiction
+119,Ashenden of The British Agent,philosophy
+121,Zen & The Art of Motorcycle Maintenance,history
+122,"Great War for Civilization, The",fiction
+123,We the Living,science
+124,"Artist and the Mathematician, The",philosophy
+125,History of Western Philosophy,fiction
+126,Selected Short Stories,economics
+129,Rationality & Freedom,history
+130,Clash of Civilizations and Remaking of the World Order,nonfiction
+131,Uncommon Wisdom,nonfiction
+132,One,nonfiction
+135,Karl Marx Biography,fiction
+137,To Sir With Love,fiction
+140,Half A Life,history
+141,"Discovery of India, The",nonfiction
+144,Apulki,philosophy
+145,Unpopular Essays,fiction
+146,"Deceiver, The",history
+147,Veil: Secret Wars of the CIA,nonfiction
+148,Char Shabda,fiction
+149,Rosy is My Relative,fiction
+150,"Moon and Sixpence, The",philosophy
+151,Political Philosophers,history
+152,"Short History of the World, A",fiction
+153,"Trembling of a Leaf, The",fiction
+154,Doctor on the Brain,science
+155,Simpsons & Their Mathematical Secrets,data_science
+156,Pattern Classification,history
+157,From Beirut to Jerusalem,science
+158,"Code Book, The",history
+159,"Age of the Warrior, The",comic
+160,Final Crisis,comic
+161,"Killing Joke, The",comic
+162,Flashpoint,comic
+163,Batman Earth One,comic
+164,Crisis on Infinite Earths,science
+165,"Numbers Behind Numb3rs, The",comic
+166,Superman Earth One - 1,comic
+167,Superman Earth One - 2,comic
+168,Justice League: Throne of Atlantis,comic
+169,Justice League: The Villain's Journey,comic
+170,"Death of Superman, The",comic
+171,History of the DC Universe,comic
+172,Batman: The Long Halloween,nonfiction
+173,"Life in Letters, A",science
+174,"Information, The",economics
+175,"Journal of Economics, vol 106 No 3",data_science
+176,Elements of Information Theory,computer_science
+177,Power Electronics - Rashid,computer_science
+178,Power Electronics - Mohan,data_science
+179,Neural Networks,fiction
+180,"Grapes of Wrath, The",nonfiction
+181,Vyakti ani Valli,data_science
+183,Statistical Learning Theory,history
+184,Empire of the Mughal - The Tainted Throne,history
+185,Empire of the Mughal - Brothers at War,history
+186,Empire of the Mughal - Ruler of the World,history
+187,Empire of the Mughal - The Serpent's Tooth,history
+188,Empire of the Mughal - Raiders from the North,history
+189,Mossad,nonfiction
+190,Jim Corbett Omnibus,fiction
+191,20000 Leagues Under the Sea,fiction
+193,Batatyachi Chal,fiction
+194,Hafasavnuk,fiction
+195,Urlasurla,computer_science
+196,Pointers in C,computer_science
+198,"Cathedral and the Bazaar, The",computer_science
+199,Design with OpAmps,data_science
+200,Think Complexity,fiction
+201,"Devil's Advocate, The",philosophy
+202,Ayn Rand Answers,philosophy
+203,Philosophy: Who Needs It,philosophy
+204,"World's Great Thinkers, The",data_science
+205,Data Analysis with Open Source Tools,science
+206,Broca's Brain,mathematics
+207,Men of Mathematics,science
+208,Oxford book of Modern Science Writing,philosophy
+210,"Justice, Judiciary and Democracy",philosophy
+211,"Arthashastra, The",philosophy
+213,We the People,philosophy
+214,We the Nation,nonfiction
+215,"Courtroom Genius, The",nonfiction
+216,Dongri to Dubai,history
+217,"History of England, Foundation",history
+218,City of Djinns,nonfiction
+219,India's Legal System,fiction
+220,More Tears to Cry,fiction
+222,"Ropemaker, The",fiction
+223,Angels & Demons,fiction
+224,"Judge, The",fiction
+225,"Attorney, The",philosophy
+227,"Prince, The",fiction
+228,Eyeless in Gaza,fiction
+229,Tales of Beedle the Bard,fiction
+230,Girl with the Dragon Tattoo,fiction
+231,Girl who kicked the Hornet's Nest,fiction
+232,Girl who played with Fire,comic
+233,Batman Handbook,nonfiction
+234,Murphy's Law,mathematics
+235,Structure and Randomness,signal_processing
+236,Image Processing with MATLAB,fiction
+237,Animal Farm,fiction
+238,"Idiot, The",fiction
+239,"Christmas Carol, A",signal_processing
